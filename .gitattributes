@@ -1,6 +1,6 @@
 # Don't count the Makefile toward language stats
-Makefile linguist-detectable=vendored
-*.mk linguist-detectable=vendored
+Makefile linguist-detectable=false
+*.mk linguist-detectable=false
 
 # Make sure C files are counted
 *.c linguist-language=C
