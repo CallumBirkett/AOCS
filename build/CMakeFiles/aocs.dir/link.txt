@@ -1,2 +1,0 @@
-/usr/bin/ar qc libaocs.a CMakeFiles/aocs.dir/src/aocs_status.c.o CMakeFiles/aocs.dir/src/aocs_log_csv.c.o
-/usr/bin/ranlib libaocs.a

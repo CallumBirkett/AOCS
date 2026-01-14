@@ -1,1 +1,0 @@
-/usr/bin/clang -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/aocs_sim.dir/app/aocs_sim.c.o -o aocs_sim  libaocs.a

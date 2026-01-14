@@ -1,6 +1,0 @@
-/Users/callumbirkett/Documents/aocs/build/CMakeFiles/aocs.dir
-/Users/callumbirkett/Documents/aocs/build/CMakeFiles/aocs_sim.dir
-/Users/callumbirkett/Documents/aocs/build/CMakeFiles/aocs_tests.dir
-/Users/callumbirkett/Documents/aocs/build/CMakeFiles/test.dir
-/Users/callumbirkett/Documents/aocs/build/CMakeFiles/edit_cache.dir
-/Users/callumbirkett/Documents/aocs/build/CMakeFiles/rebuild_cache.dir
