@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260110-1709-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.2.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="MacBookAir"
+	OSRelease="15.7.2"
+	OSVersion="24G325"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="126"
+	ModelName="Intel(R) Core(TM) i5-1030NG7 CPU @ 1.10GHz"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="1024"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="1100"
+	>
+	<Testing>
+		<StartDateTime>Jan 13 17:10 GMT</StartDateTime>
+		<StartTestTime>1768324204</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 13 17:10 GMT</EndDateTime>
+		<EndTestTime>1768324204</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

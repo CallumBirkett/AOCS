@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "aocs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aocs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aocs-Debug-0f7bcdc6f3ad77eadce8.json",
+					"name" : "aocs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aocs_sim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aocs_sim-Debug-0175ecb2cefc006d2ac0.json",
+					"name" : "aocs_sim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aocs_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aocs_tests-Debug-818c98b70362c4ad9976.json",
+					"name" : "aocs_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/callumbirkett/Documents/aocs/build",
+		"source" : "/Users/callumbirkett/Documents/aocs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

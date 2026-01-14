@@ -1,0 +1,18 @@
+Start testing: Jan 13 17:18 GMT
+----------------------------------------------------------
+1/1 Testing: smoke
+1/1 Test: smoke
+Command: "/Users/callumbirkett/Documents/aocs/build/aocs_tests"
+Directory: /Users/callumbirkett/Documents/aocs/build
+"smoke" start time: Jan 13 17:18 GMT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"smoke" end time: Jan 13 17:18 GMT
+"smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 13 17:18 GMT
